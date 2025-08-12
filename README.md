@@ -1,10 +1,3 @@
- <h1 align=center>
-  ❗❗❗ THESE DOTS ARE OUTDATED! ❗❗❗
- </h1>
-
-
-<br>
-
 <img width="2940" height="1912" alt="sketchybar" src="https://github.com/user-attachments/assets/b45dd918-4c5b-4f20-9e7b-cdad1e9fd79f" />
 
 
