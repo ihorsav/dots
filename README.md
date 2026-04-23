@@ -12,12 +12,7 @@
 
 <img width="2940" height="1912" alt="sketchybar" src="https://github.com/user-attachments/assets/b45dd918-4c5b-4f20-9e7b-cdad1e9fd79f" />
 <p align="center" style="text-decoration: none; border: none;">
-	<a href="https://github.com/omniwiz/test/stargazers" style="text-decoration: none">
-		<img alt="Stars" src="https://img.shields.io/github/stars/omniwiz/test?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
-	<a href="https://github.com/omniwiz/test//issues" style="text-decoration: none">
-		<img alt="Issues" src="https://img.shields.io/github/issues/omniwiz/test?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41"></a>
-	<a href="https://github.com/omniwiz/test/contributors" style="text-decoration: none">
-		<img alt="Contributors" src="https://img.shields.io/github/contributors/omniwiz/test?color=%23DDB6F2&label=CONTRIBUTORS&logo=git&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41"/></a>
+	
 </p>
 
 <br>
